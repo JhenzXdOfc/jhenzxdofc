@@ -8,7 +8,7 @@
 Hostname: jhenzxdofc
 Hobbies: Watch Anime
 Best Anime: Owari no Seraph
-Location: Indonesia, South Kalimantan, Banjarbaru
+Location: Indonesia, Bogor, Cibubur
 Domain: jhnxd.tech
 -------------------------
 ```
