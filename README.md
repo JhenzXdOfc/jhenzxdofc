@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/JhenzXdOfc)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JhenzXdOfc&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/JhenzXdOfc)
 
 ## Hi there, I'm JhenzXdOfc 👋
 🚀 **Full Stack Developer | Tech Educator | Open Source Contributor**
@@ -9,7 +9,7 @@ Hostname: jhenzxdofc
 Hobbies: Watch Anime
 Best Anime: Owari no Seraph
 Location: Indonesia, South Kalimantan, Banjarbaru
-Domain: latesturl.tech
+Domain: jhnxd.tech
 -------------------------
 ```
 ![](https://komarev.com/ghpvc/?username=JhenzXdOfc&style=flat-square)
