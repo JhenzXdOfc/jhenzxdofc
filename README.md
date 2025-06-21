@@ -34,7 +34,6 @@ Domain: jhnxd.tech
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/JhenzXdOfc)
 
